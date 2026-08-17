@@ -10,7 +10,6 @@ The application reads a Confluence template page, scans repository files, extrac
 - Scans GitHub repository files recursively
 - Extracts facts from configuration and documentation files
 - Uses strict fact extraction rules
-- Fills missing values with `Not Found` or `Not Specified`
 - Creates a new Confluence page automatically
 
 ## Technology Stack
